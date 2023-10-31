@@ -1,3 +1,3 @@
 # leetcode
 
-[2864. Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/description/)
+## List of curated questions from Grind 75 | Neetcode.io | Algoexpert.io with solutions
