@@ -1,5 +1,3 @@
-# leetcode
-
 ## List of Interview Prep Coding questions gathered from several sources.
 
 <details>
