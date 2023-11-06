@@ -1,9 +1,10 @@
 # leetcode
 
-## List of curated questions from Grind 75 | Neetcode.io | Algoexpert.io with solutions
+## List of Interview Prep Coding questions gathered from several sources.
 
 <details>
 <summary>Facebook Tree Questions </summary>
+
 - [ ] [314. Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)<br>
 - [ ] [1650. Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/)<br>
 - [ ] [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)<br>
